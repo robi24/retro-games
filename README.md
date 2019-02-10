@@ -5,7 +5,8 @@
 * Run on DOS/Windows95
 
 ## Hardware
-### Compaq LTE 5x series laptop
+### Laptop
+Compaq LTE 5x series laptop
 
 ![laptop](http://www.baber.com/baber/gifs/compaq_lte_5280_2.jpg)
 * Procesor: Pentium 75MHz
@@ -19,15 +20,18 @@ It may be possible for me to provide 100MHz laptops with more RAM (60MB or more)
 
 ### Hard drive
 Kingston compact flash 2GB
+
 ![hard drive](https://images-na.ssl-images-amazon.com/images/I/51QTLJpZ1ML._SY355_.jpg)
 
 ### Network card
 XIRCOM Real Port CardBus Ethernet 10/100 Modem 56
+
 ![network card](https://i.ebayimg.com/images/g/BZ8AAOSwg3FUifnO/s-l300.jpg)
 
 ## Accepted games
 * 8 players [Warcraft II: Tides of Darkness](https://www.google.com/search?client=ubuntu&sa=X&channel=fs&q=Warcraft+II:+Tides+of+Darkness&stick=H4sIAAAAAAAAAHWTO2_UQBSF8YqgZDZI0VAgTAoLIUSDdm2vPXYLgooIiYTa2vXYXtvjx3qMXx0tHbQ0CFo6fgX5AZQUdDRIdJQ4m7kDQdCdmTvznXOvdHd3bu3Nstlct127NXQW81orQi3j92jBtew5q-OSLfug0pqYBoUWLbPgD8lPld2z74bfr4S03Z6dKufQ3mRr0GcGQttWGebyZ5rCE-KY8NwkCz8E3TaJJzRZ6K0DmKE0EoHRmyYU0jF9Xch1NQdPo003NkTMHFdIEjEX7Cu3rADdh-kYBW1_WlWfz-HQpFYIP8yG8JUobLx5VELBGBIOKU2f5uBmJrUjm_VaX2hrs44y-YQ3kjK0MEqTGsSAcMyJKGCSyAHXBXdzifeMYQP3-tD3Qru6SQeYDmMErsNOjt7KujATXY22jMg8meESmY0YoPWaJLbQtCk78DU59TPIEDkdE9B0MPPSgkKXVhDOIms3AQMWetZX5c1kevDt55dr6qvJ6w-fPisvJ-jy_YDX-MUETY-D-qQ4Kmgc9viHgr8r6OBxUfCA9U8DtqwDelLg2-jKw7yO6x6raF_d9m3NO3r3koqQPOGPykXaewW__RftjqQdoqvqefcDWZARN0W_j5hexD3Dx2jvKMhWQcWfhPgRQg8KxgK_joscO-imen3my4vZdr287XqN3Bvof8X9dzuHq3EW47b-vazb-i9jKju_3AMAAA&ved=0ahUKEwiMqqKJ0Z_gAhWCRBUIHQ_qDDAQ-BYINA&biw=1859&bih=928)
 
+![warcraft 2 img](https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Warcraft-2-Tides-Of-Darkness-Pc.jpg/220px-Warcraft-2-Tides-Of-Darkness-Pc.jpg)
 
 ## Games list
 * [Duke Nukem 3D](https://www.google.com/search?client=ubuntu&hs=hse&sa=X&channel=fs&q=Duke+Nukem+3D&stick=H4sIAAAAAAAAAHWTPW_UQBCG8YmgZC9I0VIgTIoTQogG3dk-e-0WBBUREgm1lfPaPtu7ts9r_NXR0kFLg6Cl41eQH0BJQUeDREeJOXYWgqB7dmfmnXdGmt2dG7tzPl-YQb8yDZaIelZEMy7u0ELM-FNWJyU77cNq1iQ0LGbxKQ__QHGmqWqJjtezM23vJxq9xdbAjue0kh27jHJVmWWQQlwL0i2yDCLgtkl9yWRptC7IDKWZShmjaSKJrhUYEtfVAnqabbZxwCJ3PYkkZh60r7yyAuk-ykYraFtpV32-gEeT2RFUWA0RKxnY-Iu4hIA5pAJcWgHNoZuV1q4a1m8DyfZmHXOVIhqlMrSwSouaxARzzI0pyKSxC12XwsuVvG8OG_g3hr6X7BkWHWA7jBH4jjq1ept3EZdTjW0ZUX646RHljZjARk1SRzJtyg76WoIGHDzEbsekaDZYeWlDoMsqMGeTtZdCAxb59mft1WR68OX7pyv6i8nLdx8-as8n6OLdUNT42QRNj8P6pDgqaBL1-JuGv2ro4GFRiJD1j0N2Wof0pMA30aX7eZ3UPdbRvr6d21509PYFHSH1wu-182pvNfz6X2q3lNohuqz_mn4gSzLKTdHvJ6bn5Z7gY7R3FPJVWIlHEX6A0L2CsTCokyLHLrquX50H6mO-PS9_e16j7jX0v-D-m53D1biL8Vr_PtZt_AcOWnbP2wMAAA&ved=0ahUKEwjxv8jJzJ_gAhX8XRUIHbMeCqkQ-BYIKw&biw=1859&bih=928)
