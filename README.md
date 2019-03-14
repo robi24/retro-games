@@ -64,7 +64,7 @@ Other games:
 * [Dungeon Keeper](https://www.youtube.com/watch?v=mqF9RppF78s)
 * [Shadow Warior](https://www.youtube.com/watch?v=ij2QOV4Hbyg)
 * [The Setlers](https://www.youtube.com/watch?v=g4sb9j3GQnA)
-* Heroes of Might and Magic 2
+* [Heroes of Might and Magic 2](https://www.youtube.com/watch?v=R4ghV9udBv4)
 
 Some random links:
 * [Best multiplayer MSDOS games](https://www.youtube.com/watch?v=wspa6GWalwU)
