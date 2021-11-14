@@ -58,6 +58,7 @@ XIRCOM Real Port CardBus Ethernet 10/100 Modem 56
 * [Worms](https://playclassic.games/game/play-worms-online/)
 * [Scorched earth](https://playclassic.games/game/play-scorched-earth-online/)
 * [Doom 2](https://playclassic.games/game/play-doom-ii-hell-earth-online/)
+* [Age of Empires](https://www.classicdosgames.com/game/Age_of_Empires.html)
 
 Other games:
 
